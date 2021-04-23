@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.raywenderlich.android.fromdusktilldownamulya",
+    "package_name": "com.pact.royaljordanian",
     "sha256_cert_fingerprints":
-    ["E3:7F:9E:A3:2A:89:80:11:AD:CD:F7:50:35:48:C5:BB:04:3C:22:06:19:6B:CE:75:3D:37:0F:F7:F8:0F:E6:E3"]
+    ["EA:CE:AA:6C:7F:D6:6D:36:82:69:82:43:7F:71:C0:2C:E7:EA:37:2E:DB:11:4D:A3:F7:D7:E7:23:C7:00:F0:3A"]
   }
 },
 {
@@ -18,8 +18,8 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.raywenderlich.android.fromdusktilldownamulya",
+    "package_name": "com.pact.royaljordanian",
     "sha256_cert_fingerprints":
-    ["E3:7F:9E:A3:2A:89:80:11:AD:CD:F7:50:35:48:C5:BB:04:3C:22:06:19:6B:CE:75:3D:37:0F:F7:F8:0F:E6:E3"]
+    ["EA:CE:AA:6C:7F:D6:6D:36:82:69:82:43:7F:71:C0:2C:E7:EA:37:2E:DB:11:4D:A3:F7:D7:E7:23:C7:00:F0:3A"]
   }
 }]
