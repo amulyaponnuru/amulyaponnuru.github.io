@@ -6,4 +6,20 @@
     "sha256_cert_fingerprints":
     ["EA:CE:AA:6C:7F:D6:6D:36:82:69:82:43:7F:71:C0:2C:E7:EA:37:2E:DB:11:4D:A3:F7:D7:E7:23:C7:00:F0:3A"]
   }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://amulyaponnuru.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.amadeus.mercimdp.z",
+    "sha256_cert_fingerprints":
+    ["EA:CE:AA:6C:7F:D6:6D:36:82:69:82:43:7F:71:C0:2C:E7:EA:37:2E:DB:11:4D:A3:F7:D7:E7:23:C7:00:F0:3A"]
+  }
 }]
